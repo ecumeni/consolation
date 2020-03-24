@@ -11,3 +11,14 @@ The idea for now:
 * Both identities (from the volunteer and the person asking for help) are anonymous to each other. If they want to exchange contacts, can do during video/audio call in QuickMate.
 * At the end, both parties can send an anonymous WhatsApp message to each other through the Bot
 * The person that was attended will give a NPS feedback to the volunteer: "Would you recommend this to your friends/family?"
+
+## Microservices
+
+<img src="microservices.png" width="400">
+
+## Data Model
+
+* Volunteers/People
+
+<img src="domain.png" width="400">
+
