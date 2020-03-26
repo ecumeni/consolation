@@ -14,11 +14,11 @@ The idea for now:
 
 ## Microservices
 
-<img src="microservices.png" width="400">
+<img src="microservices.png" width="700">
 
 ## Data Model
 
 * Volunteers/People
 
-<img src="domain.png" width="400">
+<img src="domain.png" width="500">
 
