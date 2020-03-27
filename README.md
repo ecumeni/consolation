@@ -12,6 +12,11 @@ The idea for now:
 * At the end, both parties can send an anonymous WhatsApp message to each other through the Bot
 * The person that was attended will give a NPS feedback to the volunteer: "Would you recommend this to your friends/family?"
 
+Related repositories:
+* http://github.com/ecumeni/consolation-whatsapp
+* http://github.com/ecumeni/consolation-api
+* http://github.com/ecumeni/consolation-prisma
+
 ## Attendance
 
 <img src="attendance.png" width="700">
