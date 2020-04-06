@@ -1,4 +1,6 @@
-# consolation
+<img src="logo-black.png" width="200">
+
+# Consolation
 Consolation is an App/WhatsApp Bot that connects a network of volunteers with people that are in need for help
 
 The idea for now:
@@ -31,3 +33,7 @@ Related repositories:
 
 <img src="domain.png" width="500">
 
+## Visual Design
+
+Logo ref:
+https://thenounproject.com/phantompoints/collection/circle-outline-icons-business-marketing/
